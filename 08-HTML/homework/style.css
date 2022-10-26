@@ -1,0 +1,28 @@
+
+
+h1 {
+    color: greenyellow;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+}
+
+#thirdDiv {
+    height: 650px;
+    width: 600px;
+    background-color: goldenrod;
+    padding: 50px;
+    border: 5px solid black;
+    margin: 50px;
+}
+
+.divClass { 
+      background-color: peru;
+}
+
+#spanId {
+    font-size: 25px;
+    margin: 50px;
+}
